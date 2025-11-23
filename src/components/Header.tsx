@@ -17,7 +17,7 @@ export const Header: React.FC = () => {
             <div>
               <h1 className="text-2xl md:text-3xl font-bold">Micro-Motion Playground</h1>
               <p className="text-sm text-blue-100 hidden md:block">
-                50+ Framer Motion micro-interactions • Drag, drop, tweak & export
+                60+ Framer Motion micro-interactions • Drag, drop, tweak & export
               </p>
             </div>
           </div>
